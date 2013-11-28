@@ -3,7 +3,7 @@
   <head>
    <title>IP Resolve</title>
    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-   <link rel="stylesheet" href="css/bootstrap.css" />
+   <link rel="stylesheet" href="bootstrap.css" />
   </head>
   <body>
  <center><h3><a href="#">Domain resolve | headers tool</a></h3></center>
