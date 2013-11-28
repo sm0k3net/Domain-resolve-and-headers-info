@@ -18,7 +18,7 @@
  <p><b><a href="#ip_3">#3</a></b> <input type="text" name="getip3" maxlength="500"></p>
  <p><b><a href="#ip_4">#4</a></b> <input type="text" name="getip4" maxlength="500"></p>
  <p><b><a href="#ip_5">#5</a></b> <input type="text" name="getip5" maxlength="500"></p>
- <p><input type="submit" value="Получить адреса" class="btn btn-small btn-primary"> <input type="button" value="Refresh страницу" class="btn btn-small btn-primary" onClick="window.location.href='/'"></p>
+ <p><input type="submit" value="Get info" class="btn btn-small btn-primary"> <input type="button" value="Refresh страницу" class="btn btn-small btn-primary" onClick="window.location.href='/'"></p>
  <p><a href="/" title="back" class="btn btn-small">Home</a></p>
  </form>
  <!-- engine part start -->
